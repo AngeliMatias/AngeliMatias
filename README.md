@@ -8,7 +8,7 @@ I'm a 25 years old dev from Argentina. Currently working on getting my Bachelors
 ## Currently
 - 🔬 Developing **CO2 sensors** with **Arduino**
 - 👨‍🏫 Student-assistant in a course of **Object Oriented Software Design** at my university
-- 📚 Learning Fullstack **JavaScript** (*ReactJS*, *nodeJS*, *Sequelize*)
+- 📚 Learning **Fullstack JavaScript** (*ReactJS*, *nodeJS*, *Sequelize*)
 - 🖥️ Distro-hopping, looking for the distro that best suits me, currently on **Manjaro** using **i3 WM**
 
 # Technologies

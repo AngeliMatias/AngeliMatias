@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AngeliM96.AngeliM96)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-I'm a 25 years old from Argentina. Currently working on getting my Bacheloors degree on Computer Science.
+I'm a 25 years old from Argentina. Currently working on getting my Bachelors degree on Computer Science.
 
 ## Currently
 - 🔬 Developing **CO2 sensors** with **Arduino**

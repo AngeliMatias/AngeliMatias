@@ -9,7 +9,8 @@ I'm a 25 years old dev from Argentina. Currently working on getting my Bachelors
 - 🔬 Developing **CO2 sensors** with **Arduino**
 - 👨‍🏫 Student-assistant in a course of **Object Oriented Software Design** at my university
 - 📚 Learning **Fullstack JavaScript** (*ReactJS*, *nodeJS*, *Sequelize*)
-- 🖥️ Distro-hopping, looking for the distro that best suits me, currently on **Manjaro** using **i3 WM**
+- 🖥️ Main computer is a desktop running a Dual-Boot setup that consists of **Ubuntu 20.04** with **i3-gaps WM** and **Windows 10 Pro**
+- 💻 Secondary computer is a netbook using Kubuntu with the default KDE Plasma.
 
 # Technologies
 

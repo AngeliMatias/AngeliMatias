@@ -5,7 +5,7 @@
 
 I'm a 29 years old dev from Argentina with a really outdated bio. Currently working on getting my Bachelors degree on Computer Science.
 
-v I need to update this, but these last 3 years I've been working in a software company that integrates different technologies with conversational chatbots to provide better experiencies, working with all kind of different clients.
+⬇ I need to update this, but these last 3 years I've been working in a software company that integrates different technologies with conversational chatbots to provide better experiencies, working with all kind of different clients.
 ## Currently
 - 🔬 Developing **CO2 sensors** with **Arduino**
 - 👨‍🏫 Student-assistant in a course of **Object Oriented Software Design** at my university
